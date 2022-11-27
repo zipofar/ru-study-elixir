@@ -24,3 +24,6 @@ elixir_cource-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+.tool-versions
+.elixir_ls
