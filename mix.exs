@@ -22,7 +22,8 @@ defmodule ElixirCource.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:dialyxir, "~> 1.0", runtime: false}
+      {:dialyxir, "~> 1.0", runtime: false},
+      {:csv, "~> 3.0"}
     ]
   end
 
