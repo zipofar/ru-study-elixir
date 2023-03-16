@@ -1,6 +1,6 @@
-defmodule ElixirCource.EnumExerciseTest do
+defmodule ElixirCourse.EnumExerciseTest do
   use ExUnit.Case
-  alias ElixirCource.EnumExercise
+  alias ElixirCourse.EnumExercise
 
   @moduletag :skip
   @movies_headers [

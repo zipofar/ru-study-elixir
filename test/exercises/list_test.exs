@@ -1,6 +1,6 @@
-defmodule ElixirCource.ListExerciseTest do
+defmodule ElixirCourse.ListExerciseTest do
   use ExUnit.Case
-  alias ElixirCource.ListExercise
+  alias ElixirCourse.ListExercise
 
   @moduletag :skip
 

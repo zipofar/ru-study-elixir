@@ -1,6 +1,6 @@
-defmodule ElixirCource.FilterMapTest do
+defmodule ElixirCourse.FilterMapTest do
   use ExUnit.Case
-  alias ElixirCource.FilterMapExercise
+  alias ElixirCourse.FilterMapExercise
 
   @moduletag :skip
 

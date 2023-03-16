@@ -1,4 +1,4 @@
-defmodule ElixirCource.FilterMapExercise do
+defmodule ElixirCourse.FilterMapExercise do
   @doc """
     Реализовать функцию, которая ведет себя как filter и map. К каждому значению из
     списка применяется функция, которая в ответ возвращает кортеж

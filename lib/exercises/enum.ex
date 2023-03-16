@@ -1,4 +1,4 @@
-defmodule ElixirCource.EnumExercise do
+defmodule ElixirCourse.EnumExercise do
   @moduledoc """
   Модуль для практики по понимаю модуля Enum.
   """

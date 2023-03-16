@@ -1,4 +1,4 @@
-defmodule ElixirCource.ListExercise do
+defmodule ElixirCourse.ListExercise do
   @moduledoc """
   Модуль для практики по работе со списками.
   При выполнении задач запрещено использовать модули List и Enum
