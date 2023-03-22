@@ -1,9 +1,9 @@
-defmodule ElixirCource.MixProject do
+defmodule ElixirCourse.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :elixir_cource,
+      app: :elixir_course,
       version: "0.1.0",
       elixir: "~> 1.14",
       start_permanent: Mix.env() == :prod,
@@ -22,7 +22,8 @@ defmodule ElixirCource.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:dialyxir, "~> 1.0", runtime: false}
+      {:dialyxir, "~> 1.0", runtime: false},
+      {:csv, "~> 3.0"}
     ]
   end
 
