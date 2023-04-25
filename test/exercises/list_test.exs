@@ -2,7 +2,7 @@ defmodule ElixirCourse.ListExerciseTest do
   use ExUnit.Case
   alias ElixirCourse.ListExercise
 
-  @moduletag :skip
+  # @moduletag :skip
 
   describe "List Exercise" do
     test "replace" do
